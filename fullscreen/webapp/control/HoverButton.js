@@ -16,10 +16,10 @@ sap.ui.define([
                 },
                 "hoverText": {
                     type: "string"
-                },                
-                events: {
-                  "hover": {}
-                }
+                }                
+            },
+            events: {
+              "hover": {}
             }
         },
         
